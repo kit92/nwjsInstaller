@@ -1,0 +1,23 @@
+{
+    "name": "nwjsinstaller",
+    "version": "0.0.1",
+    "description": "An installer in nwjs, just cause.",
+    "main": "index.html",
+    "window": {
+      "title": "nwjsInstaller",
+      "width": 500,
+      "height": 300,
+      "position": "center",
+      "icon": "ui/logo.png",
+      "toolbar": true
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/kit92/nwjsInstaller.git"
+    },
+    "author": "Chis Kennedy",
+    "license": "GPL 3.0",
+    "devDependencies": {
+      "request": "^2.83.0"
+    }
+  }
